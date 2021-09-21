@@ -1,3 +1,8 @@
 {
-  "bootstrap-sha": "555bc4fb394409cb4ef342c7bb151c6e88d0d351"
+  "bootstrap-sha": "555bc4fb394409cb4ef342c7bb151c6e88d0d351",
+  "packages": {
+    "packages/package-a": {
+      "draft" true
+    }
+  }
 }
