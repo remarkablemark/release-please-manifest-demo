@@ -1,3 +1,4 @@
 {
-  "name": "package-a"
+  "name": "package-a",
+  "version": "1.0.0"
 }
