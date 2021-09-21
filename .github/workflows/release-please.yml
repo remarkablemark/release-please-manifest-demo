@@ -8,8 +8,6 @@ name: release-please
 jobs:
   release-please:
     runs-on: ubuntu-latest
-    outputs:
-      releases_created: ${{ steps.release.outputs.releases_created }}
 
     steps:
       - name: Release Please
